@@ -3,6 +3,8 @@
 Electrical Engineering (Elektrotechnik) student at **RWTH Aachen University**.
 I build desktop tools in Python — mostly around audio, speech and machine learning.
 
+🌐 [writerforight.github.io](https://writerforight.github.io)
+
 ### Projects
 
 - **[Ders Transkript](https://github.com/writerforight/ders-transkript)** — offline lecture transcription app
