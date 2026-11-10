@@ -29,6 +29,6 @@ matematiği: her konu, canlı bir görselleştirmeyi ilk prensiplerden adım ad�
 internetsiz metne çeviren uygulama; Windows, macOS ve Linux. Ses bilgisayardan çıkmaz.
 [İndir](https://github.com/writerforight/ders-transkript/releases/latest) · [Kaynak kod](https://github.com/writerforight/ders-transkript)
 
-**Küçük araçlar:** [Spectral Trip](https://writerforight.github.io/spectral-trip/) (spektrograma renk sür ve çal) · [specroots](https://writerforight.github.io/specroots/) (İngilizce kelimeler Latince ve Yunanca kökleriyle)
+**Küçük araçlar:** [Spectral Trip](https://writerforight.github.io/spectral-trip/) (spektrograma renk sür ve çal)
 
 Kontrol, makine öğrenmesi ve sinyal işleme alanlarında HiWi / tutor pozisyonlarına açığım.
