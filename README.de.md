@@ -29,6 +29,6 @@ angefangen bei M² = −I und der Laplace-Transformation eines Integrals.
 Vorlesungsaufnahmen mit Whisper für Windows, macOS und Linux; keine Audiodaten verlassen den Rechner.
 [Download](https://github.com/writerforight/ders-transkript/releases/latest) · [Quellcode](https://github.com/writerforight/ders-transkript)
 
-**Kleinere Werkzeuge:** [Spectral Trip](https://writerforight.github.io/spectral-trip/) (Farben auf ein Spektrogramm malen und abspielen)
+**Kleinere Werkzeuge:** [Spectral Trip](https://writerforight.github.io/spectral-trip/) (Farben auf ein Spektrogramm malen und abspielen) · [specroots](https://writerforight.github.io/specroots/) (englische Wörter über ihre lateinischen und griechischen Wurzeln)
 
 Offen für HiWi- und Tutorenstellen in Regelungstechnik, maschinellem Lernen und Signalverarbeitung.

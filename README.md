@@ -29,6 +29,6 @@ M² = −I and the Laplace transform of an integral.
 with Whisper for Windows, macOS and Linux; no audio leaves the computer.
 [Download](https://github.com/writerforight/ders-transkript/releases/latest) · [Source](https://github.com/writerforight/ders-transkript)
 
-**Smaller tools:** [Spectral Trip](https://writerforight.github.io/spectral-trip/) (paint colours on a spectrogram and play them)
+**Smaller tools:** [Spectral Trip](https://writerforight.github.io/spectral-trip/) (paint colours on a spectrogram and play them) · [specroots](https://writerforight.github.io/specroots/) (English words through their Latin and Greek roots)
 
 Open to HiWi / tutor roles in control, machine learning and signal processing.
